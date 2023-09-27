@@ -1,0 +1,1 @@
+button{border-radius:var(--border-radius);background-color:var(--secondary-background);color:var(--foreground);border:0;font-family:"Roboto",sans-serif;padding:.7rem;cursor:pointer;transition:.1s}button:hover{background:var(--hover)}
