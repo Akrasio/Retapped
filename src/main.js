@@ -451,7 +451,7 @@ async function login() {
 
 // Renders servers from the cache
 async function getServers() {
-  let serverContainer = document.getElementById("serversContainer");
+  let serverContainer = document.getElementById("servers");
   serverContainer.replaceChildren();
 
   unreads.forEach((unread) => {
